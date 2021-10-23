@@ -19,7 +19,7 @@ I am an Fullstack Developer 🚀 from Congo.
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=false&show_icons=true&theme=buefy&hide=prs" alt="bshbsh404" />
 
  ## 📊 Github stats
-[![Marien Mupenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&layout=default&theme=algolia&hide=javascript,html,css)](https://github.com/yveskalume)
+[![Marien Mupenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&theme=algolia&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/yveskalume) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&layout=default&theme=algolia&hide=javascript,html,css)](https://github.com/MarienMupenda)
 
 - 🔭 I’m currently working on SmirlBusiness
 - 🌱 I’m currently learning Vue.js
