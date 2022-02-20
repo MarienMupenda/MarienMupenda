@@ -17,8 +17,9 @@ I am an Fullstack Developer 🚀 from Congo.
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=false&show_icons=true&theme=buefy&hide=prs" alt="bshbsh404" />
 
-- 🔭 I’m currently working on SmirlBusiness
+- 🔭 I’m currently working on uzaraka.com
 - 🌱 I’m currently learning Vue.js
+
  <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,12 +28,4 @@ I am an Fullstack Developer 🚀 from Congo.
 - ⚡ Fun fact: ...
  -->
  
-  <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>-->
-  <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>-->
-  <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>-->
- 
-  <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarienMupenda&theme=material-palenight) -->
+  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarienMupenda&theme=material-palenight) 
