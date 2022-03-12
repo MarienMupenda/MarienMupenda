@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%c792ea&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marien+Mupenda;+Welcome+to+My+Profile!;Fullstack+web+and+mobile+app+developer;Over+4+years+of+coding+experience;Proficient+in+backend+dev;Always+learning+new+things+;Laravel+Artisan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+I+am+Marien+Mupenda;+Welcome+to+My+Profile!;Fullstack+web+and+mobile+app+developer;Over+4+years+of+coding+experience;Proficient+in+backend+dev;Always+learning+new+things+;Laravel+Artisan)](https://git.io/typing-svg)
 
 
 <!--
