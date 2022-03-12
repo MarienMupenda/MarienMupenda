@@ -1,6 +1,5 @@
 ![](./src/header_.png)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marien+Mupenda;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Specialized+in+backend+dev;Always+learning+new+things+;Laravel+Artisan)](https://git.io/typing-svg)
 
 <!--
@@ -30,4 +29,6 @@
 
 ![Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MarienMupenda&theme=material-palenight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
