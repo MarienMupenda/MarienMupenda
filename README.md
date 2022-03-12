@@ -16,10 +16,11 @@ I am an Fullstack Developer 🚀 from Congo.
 <code>![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)</code>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=false&show_icons=true&theme=buefy&hide=prs" alt="bshbsh404" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=default&theme=algolia&hide=javascript,html,css)](https://github.com/MarienMupenda)
 
+ <code>![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yveskalume&layout=default&theme=algolia&hide=javascript,html,css)</code>
+ 
 - 🔭 I’m currently working ciya.io
-- 🌱 I’m currently mastering Docker and DevOps things
+- 🌱 I’m currently learning DevOps things
 
  <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
