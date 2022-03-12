@@ -18,7 +18,7 @@ I am a backend developer Lubumbashi 🇨🇩.
 
 <h3> 🤝🏻 Let's build a funny project together </h3>
 
-<p align="center">
+<p align="right">
 <a href="https://www.linkedin.com/in/mairien-mupenda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MarienMupenda-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/MarienMupenda"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-MarienMupenda-blue?style=flat-square&logo=twitter"></a>
 </p>
