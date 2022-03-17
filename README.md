@@ -23,6 +23,8 @@
 <a href="https://twitter.com/MarienMupenda"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-MarienMupenda-blue?style=flat-square&logo=twitter"></a>
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
+
 ## 📈 Github stats
 
 ![Marien's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
@@ -33,4 +35,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
