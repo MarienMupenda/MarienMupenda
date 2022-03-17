@@ -29,8 +29,8 @@
 
 ![Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MarienMupenda&theme=material-palenight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarienMupenda&theme=material-palenight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
