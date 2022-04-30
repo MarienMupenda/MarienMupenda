@@ -4,9 +4,11 @@
 
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/congo_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
 
-[![committers.top badge](https://user-badge.committers.top/congo_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
+
 
 ![Marien's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
 
