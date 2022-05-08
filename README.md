@@ -10,11 +10,11 @@
 
 
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
 
 <!--![Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MarienMupenda&theme=material-palenight&hide_border=true)-->
 
 <!--![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarienMupenda&theme=material-palenight)-->
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarienMupenda&hide_border=true&layout=compact&count_private=true&theme=material-palenight)
 
