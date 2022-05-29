@@ -12,7 +12,7 @@
 
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=MarienMupenda&count_private=true&theme=material-palenight&&include_all_commits=true&hide_border=true)
 
-[Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MarienMupenda&theme=material-palenight&hide_border=true)-->
+[Marien's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=MarienMupenda&theme=material-palenight&hide_border=true)
 
 [Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarienMupenda&theme=material-palenight)
 
