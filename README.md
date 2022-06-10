@@ -1,8 +1,12 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/mairien-mupenda/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-MarienMupenda-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/MarienMupenda"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-MarienMupenda-blue?style=flat-square&logo=twitter"></a>
-
+  <a href="https://github.com/MarienMupenda/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MarienMupenda">
+</a>
+<a href="https://github.com/MarienMupenda?tab=followers"><img src="https://img.shields.io/github/followers/MarienMupenda?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+
 
 [![committers.top badge](https://user-badge.committers.top/congo_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
 
