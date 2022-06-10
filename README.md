@@ -8,8 +8,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
 
-<h1 align="center">Github Status 📊</h1>
-<p align="center">
+<p align="felt">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarienMupenda&theme=github_dark" />
 </p>
 
