@@ -4,15 +4,13 @@
 <a href="https://github.com/MarienMupenda/github-profile-views-counter">
    <img src="https://komarev.com/ghpvc/?username=MarienMupenda">
 </a>
-   <!--
 <a href="https://github.com/MarienMupenda?tab=followers"><img src="https://img.shields.io/github/followers/MarienMupenda?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
--->
 
 
 [![committers.top badge](https://user-badge.committers.top/congo_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)-->
 
 <p align="felt">
   <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarienMupenda&theme=github_dark" />
