@@ -4,7 +4,7 @@
 <a href="https://github.com/MarienMupenda/github-profile-views-counter">
    <img src="https://komarev.com/ghpvc/?username=MarienMupenda">
 </a>
-<a href="https://github.com/MarienMupenda?tab=followers"><img src="https://img.shields.io/github/followers/MarienMupenda?label=Followers&style=social" alt="GitHub Badge"></a>
+<a hidden href="https://github.com/MarienMupenda?tab=followers"><img src="https://img.shields.io/github/followers/MarienMupenda?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 
