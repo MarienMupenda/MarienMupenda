@@ -8,7 +8,7 @@
 </p>
 
 
-[![committers.top badge](https://user-badge.committers.top/congo_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
+[![committers.top badge](https://user-badge.committers.top/congo_kinshasa_private/MarienMupenda.svg)](https://user-badge.committers.top/congo_private/MarienMupenda)
 
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=MarienMupenda.MarienMupenda)-->
 
