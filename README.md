@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Marien Mupenda, a full-stack developer 👨‍💻 and CEO a wonderful team @SmirlTech since 2020 🚀</div>  
+### <div align="center">I'm Marien Mupenda, a full-stack developer 👨‍💻 and CEO of a wonderful team @SmirlTech since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [E-REVELE UPL](https://releve.upl-univ.ac)  
