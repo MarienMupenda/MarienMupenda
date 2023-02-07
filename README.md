@@ -88,10 +88,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31b3erbxyj7eq5nmhp747aglmuqm&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=marienmupenda&&style=flat-square" align="center" />
   <a href="https://user-badge.committers.top/congo_kinshasa_private/MarienMupenda">
