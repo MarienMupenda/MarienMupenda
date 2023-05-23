@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Marien Mupenda, a full-stack developer 👨‍💻 with +3 years of exexperience 🚀</div>  
+### <div align="center">I'm Marien Mupenda, a full-stack developer 👨‍💻 with +3 years of experience 🚀</div>  
   
 
 - 🔭 I’m currently working on [E-REVELE UPL](https://releve.upl-univ.ac)  
